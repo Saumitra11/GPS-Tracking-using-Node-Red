@@ -6,4 +6,4 @@ To run, download node-red and download the data in the same folder where node-re
 
 deploy the model and click on timestamp after the dashboard is seen
 
-updated dashboard is still being worked on 
+updated dashboard is still being worked on.
