@@ -1,9 +1,13 @@
 # GPS-Tracking-using-Node-Red
 
-A simple GPS Tracker built on Node-Red for our IoT Project. 
+A simple GPS Data Display System that works on the Node-Red Framework for Internet of Things Project
 
-To run, download node-red and download the data in the same folder where node-red is being run
+Turn the app on before starting your journey and close it once it's over.
 
-deploy the model and click on timestamp after the dashboard is seen
+Export the json file onto your phone and copy it to your system where node-red is present.
 
-updated dashboard is still being worked on.
+Feed the json to the code and deploy.
+
+Run the timestamp after opening the dashboard and see important data like Average Speed, Time, Distance Traveled and a WorldMap that tracks the path.
+
+by Saumitra Pathak and Maurya Goyal
